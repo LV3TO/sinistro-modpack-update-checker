@@ -1,4 +1,11 @@
-Added Create Deco, Create: Interiors, Create: Enchantment Industry, Create: Bells & Whistles and Create: CosmeticArmours
-Added New Coffee Drinks and changed some recipes
+New Mods:
+ - Create Deco
+ - Create: Interiors
+ - Create: Enchantment Industry
+ - Create: Bells & Whistles 
+ - CosmeticArmours
+
+Added New Coffee Drinks and Rebalanced Coffee saturation
+Modified Some Recipes
 --- Nerd Changes --
 Reorganized kubeJS code
