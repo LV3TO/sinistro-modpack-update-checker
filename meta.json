@@ -5,7 +5,12 @@
    {
      "id": "1.2.0",
      "releasedAt":1742649834,
-     "updateType": "major"
+     "updateType": "major",
+     "promotions":{
+       "downloads":{
+         "curseforge":"https://www.curseforge.com/minecraft/modpacks/sinistro-ocean/download/6331488"
+       }
+     }
    },
     {
       "id": "1.3.0",
