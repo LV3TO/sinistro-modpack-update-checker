@@ -1,0 +1,1 @@
+- Added Create: Better FPS to fix lag with shaders active
