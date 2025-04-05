@@ -1,5 +1,6 @@
 New Mods:
  - Create Deco
+ - Create: Pattern Schematics
  - Create: Interiors
  - Create: Enchantment Industry
  - Create: Bells & Whistles 
