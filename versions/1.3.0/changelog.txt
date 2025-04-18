@@ -1,4 +1,7 @@
+# The Cafe Latte Cafe Mocha Capuccino Update
+
 New Mods:
+ 
  - Create Deco
  - Create: Pattern Schematics
  - Create: Interiors
@@ -8,5 +11,7 @@ New Mods:
 
 Added New Coffee Drinks and Rebalanced Coffee saturation
 Modified Some Recipes
+
 --- Nerd Changes --
+
 Reorganized kubeJS code

@@ -2,6 +2,16 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
+    {
+      "id": "1.1.0",
+      "releasedAt":1742331822000,
+      "updateType": "major",
+      "promotions":{
+        "downloads":{
+          "curseforge":"https://www.curseforge.com/minecraft/modpacks/sinistro-ocean/download/6319037"
+        }
+      }
+    },
    {
      "id": "1.2.0",
      "releasedAt":1742649834,
