@@ -1,0 +1,17 @@
+# The Back to the Future Update
+
+Added:
+- Pale Garden Backport by DannBrown
+- Trial Chambers Backport by Jusey1z
+- Create: Connected
+- Create: Encased
+- Create: More Recipes
+- World Edit
+
+Removed:
+- Create Better FPS
+
+Modified:
+- Main Menu
+- Some Recipes
+- Updated some mods to their newest stable versions
