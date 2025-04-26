@@ -1,0 +1,12 @@
+
+## Added
+
+- Create: Copycats+
+
+## Removed
+
+- Framed Blocks
+
+
+
+(Backup your worlds before updating and change all the framed blocks for copycat variants)
