@@ -1,0 +1,33 @@
+## Added
+
+
+- Better Update Checker (servers now might be working a little better with the modpack)
+
+
+- InControl (changed the spawn rate of turtltes)
+
+
+- Create: Vibrant Vaults 
+
+
+## Updated
+
+- Brazilian Delight
+
+- DeltaboxLib
+
+- Pale Garden Backport
+
+- MoonlightLib
+
+- Supplementaries
+
+- Zeta
+
+- Quark
+
+- Simple Voice Chat
+
+- CTOV
+
+- Exposure
