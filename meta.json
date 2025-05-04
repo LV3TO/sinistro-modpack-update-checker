@@ -76,6 +76,16 @@
           "curseforge":"https://www.curseforge.com/minecraft/modpacks/sinistro-ocean/download/6484132"
         }
       }
+    },
+    {
+      "id": "1.7.1",
+      "releasedAt":1746112564000,
+      "updateType":"minor",
+      "promotions":{
+        "downloads":{
+          "curseforge":"https://www.curseforge.com/minecraft/modpacks/sinistro-ocean/download/6484132"
+        }
+      }
     }
   ]
 }
