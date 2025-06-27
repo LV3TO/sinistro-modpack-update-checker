@@ -1,0 +1,9 @@
+## Removed
+
+- Simple Voice Radio (and LexiConfig)
+
+
+## Changed 
+
+- Updated a lot of mods
+- Cappuccino Recipe to use cinnamon.
