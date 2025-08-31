@@ -1,0 +1,21 @@
+# ⚠  ATTENTION ⚠
+## Steam And Rails for create 6.0.6 is still in Alpha, modpack may break, so make backups of your worlds
+
+## Added
+
+	Immersive Paintings
+	Mouse Tweaks
+	Create: Power Loader
+	Vanilla Backport
+	Clean Tooltips
+	Bad Optimizations
+	Iris and Oculus Flywheel Compat
+
+## Removed
+	
+	Chunk Loaders
+
+## Changes
+
+	Coffee Rebalancing
+	Removed Shaders and Resource Packs that came with the modpack 
